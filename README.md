@@ -1,6 +1,6 @@
 # Blind Indexing Demo
 
-This project demonstrates a secure approach to handling sensitive user information using blind indexing and encryption. The application is built with Laravel and utilizes the [CipherSweet](https://paragonie.com/ciphersweet) library for encryption.
+This project demonstrates a secure approach to handling sensitive user information using blind indexing and encryption. The application is built with Laravel and utilizes the [Paragonie/Ciphersweet](https://github.com/paragonie/ciphersweet) library for encryption.
 
 ## How It Works
 
